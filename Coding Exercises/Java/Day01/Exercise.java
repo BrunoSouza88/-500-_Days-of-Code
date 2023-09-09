@@ -10,4 +10,12 @@ public class Exercise {
 
     return smallest;
   }
+
+  public static void main(String[] args) {
+    int[] arr = {5, 2, 9, 1, 5, 6};
+    
+    int smallest = findSmallestElement(arr);
+
+    System.out.println("Smallest element in the array: " + smallest);
+}
 }
