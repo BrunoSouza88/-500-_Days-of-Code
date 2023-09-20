@@ -1,3 +1,5 @@
+package Java.Day12;
+
 public class Exercise {
   public static int countDigitFrequency(long number, int digit) {
       int count = 0;
