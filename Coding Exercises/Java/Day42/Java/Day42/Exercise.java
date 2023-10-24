@@ -1,3 +1,5 @@
+package Java.Day42;
+
 public class Exercise {
   public static String repeatSentence(String sentence) {
       String result = "";
