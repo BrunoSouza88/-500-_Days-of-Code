@@ -1,4 +1,4 @@
-package Java.Day43;
+
 
 public class Exercise {
   public static void generateMultiplicationTable(int num) {
